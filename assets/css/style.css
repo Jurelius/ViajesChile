@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+
+    background-color: black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    
+}
+
+.logoviajes{
+
+    width: 25px;
+}
+
+.card-title{
+
+    text-align: left;
+    color: white;
+}
+
+.card-text{
+
+    text-align: left;
+    color: white;
+}
+
+.row{
+
+    text-align: left;
+}
+
+.container{
+
+    text-align: left;
+}
